@@ -1,0 +1,8 @@
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-top: 433px;
+}

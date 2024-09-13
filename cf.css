@@ -1,0 +1,20 @@
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-top: 433px;
+}
+
+input {
+    display: flex;
+    justify-content: space-evenly;
+    /* border: solid 2px black; */
+    width: 100%;
+    height: 40px;
+}
+
+.info {
+    margin-top: 399px;
+}

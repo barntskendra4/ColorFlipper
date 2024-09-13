@@ -1,0 +1,7 @@
+build 2 differnt webpagees
+ single button that cyles through different colors at random
+  using color names (think math.random when chooseing random numbers)
+
+
+ #2
+ will use multipule HEX codes
